@@ -27,8 +27,8 @@ function init_aurelie_shipping() {
 			$this->admin_page_description 	= __( 'Define shipping by weight and country', 'woocommerce' );
 
 			//cargonizer info
-			$this->crg_api_key 				= "5ef3837dd827b5431c8ce8f542b0aa8cd6844793"; 
-			$this->crg_sender_id 			= "1051";
+			$this->crg_api_key 				= "FILL_ME_IN"; 
+			$this->crg_sender_id 			= "FILL_ME_IN";
 			$this->crg_consignment_url 		= "http://sandbox.cargonizer.no/consignments.xml";
 			$this->crg_transport_url 		= "http://sandbox.cargonizer.no/transport_agreements.xml";
 			$this->crg_transport_cost_url	= "http://sandbox.cargonizer.no/consignment_costs.xml";
